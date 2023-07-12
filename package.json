@@ -1,0 +1,15 @@
+{
+  "name": "rocketx-logging",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.369.0",
+    "fs-extra": "^11.1.1",
+    "morgan": "^1.10.0",
+    "recursive-readdir": "^2.2.3",
+    "rotating-file-stream": "^3.1.0",
+    "s3-sync-client": "^4.3.1",
+    "util": "^0.12.5",
+    "uuid": "^9.0.0"
+  }
+}
