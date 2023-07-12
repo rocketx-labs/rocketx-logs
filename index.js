@@ -144,7 +144,7 @@ module.exports = {
             } catch (err) {
                 console.log(err);
             }
-        }, 60 * 1 * 1000);
+        }, 60 * 10 * 1000);
 
     }
 

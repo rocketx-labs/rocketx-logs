@@ -1,5 +1,5 @@
 {
-  "name": "rocketx-logging",
+  "name": "rocketx-logs",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
